@@ -1,0 +1,90 @@
+.container {
+  margin-left: 500px;
+}
+
+.navbar {
+  padding: 12px 0;
+}
+
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.navbar li {
+  display: inline;
+  position: relative;
+  margin-left: 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  text-align: right;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  margin-left: 30px;
+}
+
+.heather {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.services {
+  margin-top: 30px;
+}
+
+.title-services {
+  text-align: center;
+}
+
+.row {
+  margin-top: 40px;
+}
+
+.wrap {
+  text-align: center;
+}
+
+.wrap i {
+  color: orange;
+  height: 20px;
+}
+
+.wrap-gallery {
+  text-align: center;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.card-image img {
+  width: 100%;
+  height: 300px;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+.footer i {
+  color: blue;
+}
+
+.footer li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 18px;
+}
+
+.gallery-title {
+  margin-bottom: 30px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
